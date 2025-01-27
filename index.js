@@ -11,5 +11,5 @@ app.use(cors());
 app.use('/products', products);
 
 app.listen(PORT, () => {
-	console.log(`Api is running in http://loacalhost:${PORT}`);
+	console.log(`Api is running in http://localhost:${PORT}`);
 });
