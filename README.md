@@ -13,4 +13,5 @@ npm run dev
 ## Why I use Express instead of Fastfy and NestJS
 
 So I think it is better to explain why not use NestJS first because I believe the project size does not need a robust back-end framework.
-The Fastfy is more because I don't have familiarity with the library, despite being the same as next js.
+
+The Fastfy is more because I don't have familiarity with the library, despite being similar to Express.
